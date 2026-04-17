@@ -9,7 +9,7 @@
   <meta name="description" content="线段树 1234567ll query1(ll s,ll l,ll r,ll p)&#123;&#x2F;&#x2F;单点按下标查询    if(l&#x3D;&#x3D;r)return t[s];    pushdown(l,r,s);    ll mid&#x3D;(l+r)&#x2F;2;    if(p&gt;mid)return query1(s*2+1,mid+1,r,p);    else return query1(s*2,l,mid,">
 <meta property="og:type" content="article">
 <meta property="og:title" content="线段树">
-<meta property="og:url" content="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">
+<meta property="og:url" content="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">
 <meta property="og:site_name" content="Aarter Blog">
 <meta property="og:description" content="线段树 1234567ll query1(ll s,ll l,ll r,ll p)&#123;&#x2F;&#x2F;单点按下标查询    if(l&#x3D;&#x3D;r)return t[s];    pushdown(l,r,s);    ll mid&#x3D;(l+r)&#x2F;2;    if(p&gt;mid)return query1(s*2+1,mid+1,r,p);    else return query1(s*2,l,mid,">
 <meta property="og:locale" content="zh_CN">
@@ -80,7 +80,7 @@
         <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://heart-aarter.github.io"></form>
       </div>
     </div>
   </div>
@@ -131,7 +131,7 @@ target="_blank" rel="noopener" href="https://www.luogu.com.cn/problem/P1253">P12
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91" data-id="cuidMqF03bebQBbf8BUmSiwQx" data-title="线段树" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      <a data-url="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91" data-id="cuidv39pYA5EtAYL1IMTDL1ca" data-title="线段树" class="article-share-link"><span class="fa fa-share">分享</span></a>
       
       
       
@@ -147,15 +147,15 @@ target="_blank" rel="noopener" href="https://www.luogu.com.cn/problem/P1253">P12
       <strong class="article-nav-caption">前一篇</strong>
       <div class="article-nav-title">
         
-          Floyd算法
+          SPFA算法
         
       </div>
     </a>
   
   
-    <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">后一篇</strong>
-      <div class="article-nav-title">二叉树</div>
+      <div class="article-nav-title">Dijkstra算法</div>
     </a>
   
 </nav>
@@ -222,15 +222,15 @@ target="_blank" rel="noopener" href="https://www.luogu.com.cn/problem/P1253">P12
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
-          </li>
-        
-          <li>
             <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">Floyd算法</a>
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">线段树</a>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">二叉树</a>
+          </li>
+        
+          <li>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
           </li>
         
       </ul>

@@ -9,7 +9,7 @@
   <meta name="description" content="最近公共祖先LCA 倍增LCA 思想：在查找LCA的时候尽可能跳更多的步数 例题 P3379 【模板】最近公共祖先（LCA） 在BFS的同时记录每个结点的深度和父节点，init函数负责初始化每个结点的第\(2^i\)级祖先 1234567891011121314151617181920212223242526272829303132333435363738394041424344454">
 <meta property="og:type" content="article">
 <meta property="og:title" content="最近公共祖先LCA">
-<meta property="og:url" content="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/LCA">
+<meta property="og:url" content="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/LCA">
 <meta property="og:site_name" content="Aarter Blog">
 <meta property="og:description" content="最近公共祖先LCA 倍增LCA 思想：在查找LCA的时候尽可能跳更多的步数 例题 P3379 【模板】最近公共祖先（LCA） 在BFS的同时记录每个结点的深度和父节点，init函数负责初始化每个结点的第\(2^i\)级祖先 1234567891011121314151617181920212223242526272829303132333435363738394041424344454">
 <meta property="og:locale" content="zh_CN">
@@ -81,7 +81,7 @@
         <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://heart-aarter.github.io"></form>
       </div>
     </div>
   </div>
@@ -127,7 +127,7 @@ class="math inline">\(2^i\)</span>级祖先 <figure class="highlight cpp"><table
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/LCA" data-id="cuid7UtzeL6gsjGFowF5aYZ7v" data-title="最近公共祖先LCA" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      <a data-url="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/LCA" data-id="cuidY3_K54d7bLTWzr4N-m5-i" data-title="最近公共祖先LCA" class="article-share-link"><span class="fa fa-share">分享</span></a>
       
       
       
@@ -209,15 +209,15 @@ class="math inline">\(2^i\)</span>级祖先 <figure class="highlight cpp"><table
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
-          </li>
-        
-          <li>
             <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">Floyd算法</a>
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">线段树</a>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">二叉树</a>
+          </li>
+        
+          <li>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
           </li>
         
       </ul>

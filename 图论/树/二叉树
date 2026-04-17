@@ -9,7 +9,7 @@
   <meta name="description" content="二叉树 定义：由根结点和左右子树组成的一种数据结构，左右子树可以为空，且左右子树本身也是二叉树。 根结点：没有父亲的结点叫做二叉树的根结点。 树的深度：从根结点到最深叶子结点，最多经过的层数叫做二叉树的深度。 叶子结点：如果一个结点没有任何子树，那么这个结点就是叶子结点。 完美二叉树：如果一个二叉树的所有叶子结点都在同一层，且除叶子结点外每个结点都有两个子结点，那么这个二叉树称为完美二叉">
 <meta property="og:type" content="article">
 <meta property="og:title" content="二叉树">
-<meta property="og:url" content="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">
+<meta property="og:url" content="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">
 <meta property="og:site_name" content="Aarter Blog">
 <meta property="og:description" content="二叉树 定义：由根结点和左右子树组成的一种数据结构，左右子树可以为空，且左右子树本身也是二叉树。 根结点：没有父亲的结点叫做二叉树的根结点。 树的深度：从根结点到最深叶子结点，最多经过的层数叫做二叉树的深度。 叶子结点：如果一个结点没有任何子树，那么这个结点就是叶子结点。 完美二叉树：如果一个二叉树的所有叶子结点都在同一层，且除叶子结点外每个结点都有两个子结点，那么这个二叉树称为完美二叉">
 <meta property="og:locale" content="zh_CN">
@@ -80,7 +80,7 @@
         <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://heart-aarter.github.io"></form>
       </div>
     </div>
   </div>
@@ -139,7 +139,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91" data-id="cuidAWbOnW-qxUP_mougvJ_Sq" data-title="二叉树" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      <a data-url="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91" data-id="cuid_FGFn1e0YOsXWO1i5FPGC" data-title="二叉树" class="article-share-link"><span class="fa fa-share">分享</span></a>
       
       
       
@@ -151,11 +151,11 @@
     
 <nav id="article-nav">
   
-    <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF" id="article-nav-newer" class="article-nav-link-wrap">
       <strong class="article-nav-caption">前一篇</strong>
       <div class="article-nav-title">
         
-          线段树
+          Floyd算法
         
       </div>
     </a>
@@ -163,7 +163,7 @@
   
     <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">后一篇</strong>
-      <div class="article-nav-title">Dijkstra算法</div>
+      <div class="article-nav-title">SPFA算法</div>
     </a>
   
 </nav>
@@ -230,15 +230,15 @@
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
-          </li>
-        
-          <li>
             <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">Floyd算法</a>
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">线段树</a>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">二叉树</a>
+          </li>
+        
+          <li>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
           </li>
         
       </ul>

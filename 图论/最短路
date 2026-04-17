@@ -9,7 +9,7 @@
   <meta name="description" content="Dijkstra算法 用处：用于求单源最短路，适用于边权非负的有向图或无向图。 实现过程概述：从起点 s 出发，维护数组 dis[i]，表示当前已知的从 s 到 i 的最短距离估计值。每次在所有尚未确定最短路的点中，选取 dis 最小的点，将其最短路确定下来，再用它去更新相邻点的距离。 实现原理：贪心。每次都优先确定当前距离源点最近的未确定点。 实现原理证明过程 前提条件：图中所有">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Dijkstra算法">
-<meta property="og:url" content="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">
+<meta property="og:url" content="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">
 <meta property="og:site_name" content="Aarter Blog">
 <meta property="og:description" content="Dijkstra算法 用处：用于求单源最短路，适用于边权非负的有向图或无向图。 实现过程概述：从起点 s 出发，维护数组 dis[i]，表示当前已知的从 s 到 i 的最短距离估计值。每次在所有尚未确定最短路的点中，选取 dis 最小的点，将其最短路确定下来，再用它去更新相邻点的距离。 实现原理：贪心。每次都优先确定当前距离源点最近的未确定点。 实现原理证明过程 前提条件：图中所有">
 <meta property="og:locale" content="zh_CN">
@@ -80,7 +80,7 @@
         <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://heart-aarter.github.io"></form>
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@ Pumping G</a></h3>
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF" data-id="cuidEdj4gsJvNRn91dirj1eSl" data-title="Dijkstra算法" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      <a data-url="https://heart-aarter.github.io/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF" data-id="cuidkguedTjZHTYa75MsUkWWv" data-title="Dijkstra算法" class="article-share-link"><span class="fa fa-share">分享</span></a>
       
       
       
@@ -216,11 +216,11 @@ Pumping G</a></h3>
     
 <nav id="article-nav">
   
-    <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91" id="article-nav-newer" class="article-nav-link-wrap">
       <strong class="article-nav-caption">前一篇</strong>
       <div class="article-nav-title">
         
-          二叉树
+          线段树
         
       </div>
     </a>
@@ -290,15 +290,15 @@ Pumping G</a></h3>
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
-          </li>
-        
-          <li>
             <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">Floyd算法</a>
           </li>
         
           <li>
-            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91">线段树</a>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91">二叉树</a>
+          </li>
+        
+          <li>
+            <a href="/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF">SPFA算法</a>
           </li>
         
       </ul>
